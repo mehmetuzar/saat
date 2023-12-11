@@ -1,0 +1,2 @@
+# saat
+programlama temellerı ödev 
